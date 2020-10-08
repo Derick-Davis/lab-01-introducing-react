@@ -1,0 +1,22 @@
+.jumbotron{
+  background-color: rgb(44, 48, 54);
+  color: burlywood;
+  padding: 120px;
+  font-family: Monospace;
+  text-align: center;
+}
+
+body{
+  background-color: #e6ffe6;
+}
+
+h2{
+  color:blanchedalmond;
+  background-origin: padding-box;
+}
+
+div{
+  text-align: center  ;
+  background-color: rgb(60, 163, 146);
+  padding: 75px;
+}
